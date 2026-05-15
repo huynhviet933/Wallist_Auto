@@ -1,0 +1,9 @@
+{
+  "threads": 5,
+  "delay_step_min": 3,
+  "delay_step_max": 10,
+  "delay_account_min": 30,
+  "delay_account_max": 60,
+  "start_stagger_min": 3,
+  "start_stagger_max": 10
+}

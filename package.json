@@ -1,0 +1,20 @@
+{
+  "name": "wallist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mysten/sui": "^1.45.2",
+    "axios": "^1.16.1",
+    "chalk": "^4.1.2",
+    "https-proxy-agent": "^9.0.0",
+    "node-machine-id": "^1.1.12",
+    "uuid": "^14.0.0"
+  }
+}
